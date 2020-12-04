@@ -1,0 +1,57 @@
+.wrapper{
+    width: 900px; 
+    margin: 0 auto;
+}
+
+.header{
+    height: 60px;
+    width: 900px;
+   margin-bottom: 15px;
+}
+
+.small-section{
+    width: 190px;
+    height: 60px;
+    background-color: grey;
+    float: left;
+}
+
+.big-section{
+    width: 700px;
+    height: 60px;
+    background-color:  grey;
+    float: right;
+}
+
+.banner{
+    background-color: grey;
+    width: 900px;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.box{
+    height: 400px;
+    width: 900px;
+    margin-bottom: 15px;
+}
+
+.box1{
+    height: 400px;
+    width: 440px;
+    background-color: grey;
+    float: left;
+}
+
+.box2{
+    height: 400px;
+    width: 440px;
+    background-color: grey;
+    float: right;
+}
+
+.footer{
+    width: 900px;
+    height: 200px;
+    background-color: grey;
+}
